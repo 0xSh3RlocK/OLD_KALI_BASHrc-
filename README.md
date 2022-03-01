@@ -6,4 +6,5 @@ insted of the disgusting new ZSH.
 commands.
 
 chmod 777 old_kali.sh
+
 ./old_kali.sh
